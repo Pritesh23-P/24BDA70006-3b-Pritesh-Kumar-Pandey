@@ -93,29 +93,6 @@ pnpm build
 pnpm start
 ```
 
-
-## Project Structure
-
-```
-24BDA70006-3b-Pritesh-Kumar-Pandey/
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── ui/
-│   └── library-button.tsx
-├── lib/
-│   └── utils.ts
-├── public/
-├── package.json
-├── tailwind.config.ts
-├── tsconfig.json
-├── next.config.ts
-└── README.md
-```
-
-
 ## Technologies Used
 
 - Next.js 15+
